@@ -1,2 +1,5 @@
 print('Sorin Gore')
 print('Paris')
+print('Paris')
+print('Paris')
+print('Paris')
